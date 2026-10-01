@@ -113,4 +113,5 @@ Charts:
 
 ## Author
 
-Atharv
+Atharva Bajaj
+codesAtharv
